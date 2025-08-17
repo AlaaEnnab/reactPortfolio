@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/reactPortfolio/static/css/main.0eee91b3.css",
+    "main.js": "/reactPortfolio/static/js/main.b950cb73.js",
+    "static/js/453.438d9e50.chunk.js": "/reactPortfolio/static/js/453.438d9e50.chunk.js",
+    "static/media/fa-solid-900.woff2": "/reactPortfolio/static/media/fa-solid-900.f54756da1f3d1b88887f.woff2",
+    "static/media/fa-brands-400.woff2": "/reactPortfolio/static/media/fa-brands-400.1f6bad931d92a0a52c45.woff2",
+    "static/media/fa-regular-400.woff2": "/reactPortfolio/static/media/fa-regular-400.5632c43107f4d3fa4806.woff2",
+    "static/media/fa-v4compatibility.woff2": "/reactPortfolio/static/media/fa-v4compatibility.24fc9d217708cb3f0362.woff2",
+    "index.html": "/reactPortfolio/index.html",
+    "main.0eee91b3.css.map": "/reactPortfolio/static/css/main.0eee91b3.css.map",
+    "main.b950cb73.js.map": "/reactPortfolio/static/js/main.b950cb73.js.map",
+    "453.438d9e50.chunk.js.map": "/reactPortfolio/static/js/453.438d9e50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eee91b3.css",
+    "static/js/main.b950cb73.js"
+  ]
+}
