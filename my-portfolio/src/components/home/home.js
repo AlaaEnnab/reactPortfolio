@@ -43,8 +43,8 @@ function Home() {
         </div>
          </div>
            <div className="col-lg-4 text-center">
-            <img src="/programmer.jpg" 
-            className="img-fluid rounded about-img"
+            <img src={process.env.PUBLIC_URL +'/programmer.jpg'}
+            className="img-fluid rounded "
              style={{ height: "300px", width: "500px", objectFit: "cover" }}
                alt="Programming"  />
           </div>
