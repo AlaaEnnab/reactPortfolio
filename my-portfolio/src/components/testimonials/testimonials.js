@@ -22,7 +22,7 @@ function Testimonials(){
       <div className="col-md-6 mb-4">
         <div className="card h-100 text-center p-4 shadow-lg">
           <img
-            src="/images.jpg"
+            src={process.env.PUBLIC_URL + '/images.jpg'}
             alt="Programming"
             className="img-fluid rounded"
             style={{ maxHeight: "300px", objectFit: "cover" }}
