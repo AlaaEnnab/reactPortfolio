@@ -14,19 +14,19 @@ function Skills(){
 
     <div className="row text-center">
       <div className="col-6 col-md-3 mb-4">
-        <img src="html.png" alt="html logo" className="img-fluid mb-2" />
+        <img src={process.env.PUBLIC_URL + '/html.png'} alt="html logo" className="img-fluid mb-2" />
         <span className="d-block">HTML</span>
       </div>
       <div className="col-6 col-md-3 mb-4">
-        <img src="scc.png" alt="css logo" className="img-fluid mb-2" />
+        <img src={process.env.PUBLIC_URL + '/scc.png} alt="css logo" className="img-fluid mb-2" />
         <span className="d-block">CSS</span>
       </div>
       <div className="col-6 col-md-3 mb-4">
-        <img src="js.png" alt="javascript logo" className="img-fluid mb-2" />
+        <img src={process.env.PUBLIC_URL + '/js.png'} alt="javascript logo" className="img-fluid mb-2" />
         <span className="d-block">JavaScript</span>
       </div>
       <div className="col-6 col-md-3 mb-4">
-        <img src="react3.jpg" alt="react logo" className="img-fluid mb-2" />
+        <img src={process.env.PUBLIC_URL + '/react3.jpg'} alt="react logo" className="img-fluid mb-2" />
         <span className="d-block">React</span>
       </div>
     </div>
