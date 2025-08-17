@@ -39,7 +39,7 @@ import '../portfolio.css';
               I'm available for freelance work, collaboration, or a friendly chat about tech.
             </p>
              <img 
-    src="/contactme.jpg" 
+    src={process.env.PUBLIC_URL + '/contactme.jpg'}
     alt="Contact Illustration"
     className="img-fluid mt-3 contact-img"
   />
